@@ -2,6 +2,8 @@
 
 Docker image for building bots with [BotBuilder V4 SDK](https://github.com/Microsoft/BotBuilder)
 
+[![Pulls from Docker Hub](https://img.shields.io/docker/pulls/rjesh/botfx.svg)](https://hub.docker.com/r/rjesh/botfx) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/rjesh/botfx)
+
 ## Usage
 
 ### 1. Create new bot in container
